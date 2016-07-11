@@ -5,5 +5,5 @@
 void main(void)
 {   
     clear_screen();
-    printf("\n>>> Hello World!\n");
+    printf("\n>>> SosachOS\n");
 }
