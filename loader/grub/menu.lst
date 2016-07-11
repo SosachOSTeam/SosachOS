@@ -1,0 +1,6 @@
+timeout   3
+default   0
+
+title  mini_os
+root   (hd0,0)
+kernel /kernel.bin
